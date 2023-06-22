@@ -1,2 +1,2 @@
-# good_standing_robot
+# well_standing_robot
 balancing robot
